@@ -1,0 +1,10 @@
+{
+  "name": "stream-adventure-tasks",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "split": "^1.0.0",
+    "through2": "^2.0.3"
+  }
+}
