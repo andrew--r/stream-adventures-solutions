@@ -4,6 +4,7 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "concat-stream": "^1.6.0",
     "split": "^1.0.0",
     "through2": "^2.0.3"
   }
